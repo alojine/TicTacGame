@@ -5,10 +5,14 @@ body {
     background-color: rgb(247, 239, 247);
 }
 
+#page-title {
+    font-size: 4rem;
+}
+
 #main-header {
     background-color: rgb(140, 0, 255);
     color: white;
-    padding: 2rem 5%;
+    padding: 0.5rem 5%;
     text-align: center;
 }
 
