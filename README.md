@@ -1,2 +1,2 @@
 # TicTacGame
-Tic-tac-toe game on web
+Simple browser based game of Tic-tac-toe
